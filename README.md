@@ -6,4 +6,4 @@ Repositório destinado as principais notícias relacionadas a pandemia do covid1
 ## projeto usando html e css 
 
 ### Assuntos principais
-- Novo plano SP de restrições.
+- Novo plano SP de restrições (fase emergencial)
